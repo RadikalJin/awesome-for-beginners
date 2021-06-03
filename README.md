@@ -108,6 +108,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Java
 
+- [astra](https://github.com/alfasoftware/astra/labels/good%20first%20issue) _(label: good first issue)_ <br> Astra is a Java tool for analysing and refactoring Java source code
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/good%20first%20issue) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
